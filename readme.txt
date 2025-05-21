@@ -1,7 +1,3 @@
-Ecco come potrebbe essere il file `README.md` per il plugin WordPress descritto in `categoria-search-filter.php`:
-
----
-
 # Filtro ricerca categorie WordPress
 
 **Versione:** 1.1  
