@@ -52,7 +52,3 @@ Questo plugin aggiunge un campo di ricerca per filtrare le categorie nell’edit
 ## Licenza
 
 Questo plugin è distribuito sotto la stessa licenza di WordPress.
-
----
-
-Se vuoi personalizzare ulteriormente il README o aggiungere dettagli specifici (es. FAQ, changelog, screenshot), fammelo sapere!
